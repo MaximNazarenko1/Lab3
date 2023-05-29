@@ -34,6 +34,11 @@ fun NavigationScreen() {
             NavigationButton(stringResource(id = R.string.button_buttons), Screen.Buttons)
             NavigationButton(stringResource(id = R.string.button_progress), Screen.ProgressIndicator)
             NavigationButton(stringResource(id = R.string.button_alertDialog), Screen.AlertDialog)
+            NavigationButton(stringResource(id = R.string.button_view_text), Screen.Row)
+            NavigationButton(stringResource(id = R.string.button_textField), Screen.Column)
+            NavigationButton(stringResource(id = R.string.button_buttons), Screen.Box)
+            NavigationButton(stringResource(id = R.string.button_progress), Screen.Surface)
+            NavigationButton(stringResource(id = R.string.button_alertDialog), Screen.Scaffold)
         }
     }
 }
