@@ -19,6 +19,19 @@
     <string name="swift">swift</string>
     <string name="ios">ios</string>
     <string name="grid_icon">grid_icon</string>
+    <string name="rowScreen">Контейнер Row</string>
+    <string name="myColumn">Контейнер Column</string>
+    <string name="myBox">Контейнер Box</string>
+    <string name="mySurface">Контейнер Surface</string>
+    <string name="myScaffold">Контейнер Scaffold</string>
+    <string name="Kroll">Прокрутка</string>
+    <string name="Grid">Grid</string>
+    <string name="List">List</string>
+    <string name="button_buttons">Кнопки</string>
+    <string name="button_textField">Ввод текста</string>
+    <string name="button_progress">Прогрессбар</string>
+    <string name="button_alertDialog">Диалоговое окно</string>
+    <string name="button_view_text">Представление с текстом</string>
 
 
 </resources>
