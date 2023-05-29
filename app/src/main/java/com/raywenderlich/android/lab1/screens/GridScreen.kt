@@ -1,4 +1,4 @@
-package com.topic2.android.notes
+package com.raywenderlich.android.lab1.screens
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.Row
