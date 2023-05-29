@@ -32,6 +32,9 @@
     <string name="button_progress">Прогрессбар</string>
     <string name="button_alertDialog">Диалоговое окно</string>
     <string name="button_view_text">Представление с текстом</string>
-
+    <string name="first">Первый</string>
+    <string name="second">Второй</string>
+    <string name="third">Третий</string>
+    <string name="menu">Меню</string>
 
 </resources>
